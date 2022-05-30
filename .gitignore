@@ -1,0 +1,7 @@
+*.o
+ircserv
+.idea
+cmake-build-debug
+CMakeLists.txt
+./bircd/
+./.DS_store/
